@@ -1,6 +1,4 @@
-/**
-* This is a class for the contact.
-*/
+
 public class Contato {
 
 	private int id;
