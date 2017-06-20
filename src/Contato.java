@@ -1,5 +1,6 @@
 /**
 * This is a class for the contact.
+* new modification
 */
 public class Contato {
 
